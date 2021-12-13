@@ -6,7 +6,13 @@ which will help me to undsrstand
 PULL operration 
 thats it
 
+<<<<<<< HEAD
 
 I am writing anything here , but I will PUSH it into Remote Repo from my Local Repo.
 thts it 
 I wanted to write these much only .
+=======
+I am writing here , but I will not 
+pull these remote repo in
+my local repository
+>>>>>>> 668170fd8f51bae5accb5cb2bbc358286f93cd02
