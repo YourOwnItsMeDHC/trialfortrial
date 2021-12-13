@@ -5,3 +5,8 @@ made by me
 which will help me to undsrstand
 PULL operration 
 thats it
+
+
+I am writing anything here , but I will PUSH it into Remote Repo from my Local Repo.
+thts it 
+I wanted to write these much only .
