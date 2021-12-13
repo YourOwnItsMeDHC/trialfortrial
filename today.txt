@@ -5,3 +5,7 @@ made by me
 which will help me to undsrstand
 PULL operration 
 thats it
+
+I am writing here , but I will not 
+pull these remote repo in
+my local repository
